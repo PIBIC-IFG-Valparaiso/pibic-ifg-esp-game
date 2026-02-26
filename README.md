@@ -127,6 +127,7 @@ Expected features:
 
 # 📂 Estrutura do Projeto | Project Structure
 
+A organização modular do repositório foi adotada como estratégia metodológica para garantir rastreabilidade entre concepção teórica, design do jogo e implementação técnica.
 ```
 /docs
 /game-design
