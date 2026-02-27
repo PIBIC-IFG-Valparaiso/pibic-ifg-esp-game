@@ -191,7 +191,7 @@ Implementação progressiva de níveis.
 
 ### Fase 4 – Testes e Validação
 
-Aplicação com estudantes e coleta de dados.
+Aplicação com pesquisadores e coleta de dados.
 
 ### Fase 5 – Consolidação
 
